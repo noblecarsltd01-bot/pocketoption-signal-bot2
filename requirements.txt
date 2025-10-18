@@ -1,0 +1,7 @@
+pandas
+numpy
+ta
+python-telegram-bot==20.6
+yfinance
+requests
+python-dotenv
